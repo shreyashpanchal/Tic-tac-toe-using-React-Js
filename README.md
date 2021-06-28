@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Open your Project Directory and add above folder to it then simply open the terminal and go to root directory and npm install to download all dependencies
 
-Project Link:-https://clever-northcutt-43b4fa.netlify.app/
+Project Link:-https://wizardly-leavitt-fc6edf.netlify.app/
  
 ### `npm start`
 
