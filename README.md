@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ## To Run this Project
 
-Open your Project Directory and add above folder to it then simply open the terminal and go to root directory and npm install to donwload all dependencies
+Open your Project Directory and add above folder to it then simply open the terminal and go to root directory and npm install to download all dependencies
 
 Project Link:-https://clever-northcutt-43b4fa.netlify.app/
  
